@@ -1,0 +1,5 @@
+## Type of repo on GitHub ##
+*.ma linguist-detectable=false
+
+## LFS ##
+/Users/pavlo/repos/coupled-sim-evasive/Assets/Models/Cars/Cmax/cmaxOBJ.obj filter=lfs diff=lfs merge=lfs -text
