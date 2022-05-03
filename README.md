@@ -1,4 +1,4 @@
-# Evasive manoeuvre 
+# Examining eHMIs in critical driver-pedestrian encounters in a coupled simulator
 
 Based on the open-source [coupled sim](https://github.com/bazilinskyy/coupled-sim). We welcome forking of this repository, pull requests, and any contributions in the spirit of open science and open-source code 😍😄 For enquiries about collaboration, you may contact p.bazilinskyy@tue.nl.
 
